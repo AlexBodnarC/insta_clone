@@ -2,8 +2,8 @@
   "name": "react-native-instagram-clone",
   "version": "1.0.0",
   "description": "Instagram Clone — Express + React Native",
-  "repository": "https://github.com/stelmakhivan/react-native-instagram-clone.git",
-  "author": "Ivan Stelmakh <stelmakh.developer@gmail.com>",
+  "repository": "https://github.com/AlexBodnarC/insta_clone",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "server": "nodemon --watch server/ --exec babel-node server/server.js",
